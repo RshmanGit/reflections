@@ -10,4 +10,7 @@ The staging area is like temporary box which contains all the files from the wor
 
 One can keep adding the files that have been changed in the staging are and keep tracking the changes that have been made. After the change has been completely made and the desired output has been created, the entire staging are can be commited.
 
+-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+one, when i want to implement a feature which i think is too risky to be implemented directly in the main branch or one that is not really necessary in the main branch. Two, if there are multiple people working on the same project, the can divide their work in multiple branches, so that they do not interfere with each other's work.
 
