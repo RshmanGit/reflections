@@ -14,3 +14,7 @@ One can keep adding the files that have been changed in the staging are and keep
 
 one, when i want to implement a feature which i think is too risky to be implemented directly in the main branch or one that is not really necessary in the main branch. Two, if there are multiple people working on the same project, the can divide their work in multiple branches, so that they do not interfere with each other's work.
 
+-How do the diagrams help you visualize the branch structure?
+
+the diagrams represents the time line in a form of a tree, which make it easier to follow along.
+
