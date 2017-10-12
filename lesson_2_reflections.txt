@@ -18,3 +18,9 @@ one, when i want to implement a feature which i think is too risky to be impleme
 
 the diagrams represents the time line in a form of a tree, which make it easier to follow along.
 
+-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+the result of the merge is a common branch that has all the commits from both the branched sorted using timestamps.
+this can be represented on the diagram by connecting the side branch to latest commit in the master branch.
+
+
